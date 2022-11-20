@@ -1,6 +1,5 @@
 import { NextApiRequest, NextApiResponse } from 'next'
-import { people } from '../../../data'
-import { Person } from '../../../interfaces'
+
 
 type ResponseError = {
   message: string
