@@ -54,25 +54,7 @@ export default function Home() {
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
-          <a href="https://adball.tech/learn" className={styles.card}>
-            <h2>Contact Us &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-           <a href="https://adball.tech/learn" className={styles.card}>
-            <h2>About Us &rarr;</h2>
-            <p>Learn about how I made my interactive apps with quizzes!</p>
-          </a>
-          <a href="https://adball.tech/learn" className={styles.card}>
-            <h2>Privacy Policy &rarr;</h2>
-            <p>Learn about Maliek's Blog privacy policy in an way to understand your rights!</p>
-          </a>
-          <a href="https://adball.tech/learn" className={styles.card}>
-            <h2>Terms Of Use &rarr;</h2>
-            <p>Learn about Maliek's Blog in professional terms </p>
-          </a>
-          <a href="/amp.js" className={styles.card}>
-            <h2>Don't Sell My Information &rarr;</h2>
-          </a>
+          
         </div>
       </main>
 
